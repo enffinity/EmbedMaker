@@ -1,0 +1,30 @@
+{
+  "name": "embedmaker",
+  "version": "1.0.0",
+  "description": "sends embeds as a user on discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enffinity/EmbedMaker.git"
+  },
+  "keywords": [
+    "discord",
+    "embed",
+    "discordembed",
+    "embedmaker"
+  ],
+  "author": "enffinity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enffinity/EmbedMaker/issues"
+  },
+  "homepage": "https://github.com/enffinity/EmbedMaker#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
